@@ -31,7 +31,8 @@ Feel free to make Pull Requests to add additional tools that you feel may help t
 - **[Insomnia](https://insomnia.rest)**: Free API client for REST and GraphQL APIs.  
 - **[Hoppscotch](https://hoppscotch.io)**: Lightweight API testing tool.  
 - **[REST Assured](https://rest-assured.io/)**: Free Java-based API testing tool.  
-- **[Thunder Client](https://www.thunderclient.com/)**: Lightweight API testing plugin for VS Code.  
+- **[Thunder Client](https://www.thunderclient.com/)**: Lightweight API testing plugin for VS Code.
+- **[HttpMaster](https://www.httpmaster.net/)**: Free tool for API testing and debugging.
 
 ---
 
