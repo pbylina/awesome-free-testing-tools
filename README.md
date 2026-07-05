@@ -18,6 +18,7 @@ Feel free to make Pull Requests to add additional tools that you feel may help t
 ---
 
 ## Web Testing Tools  
+- **[agent-qa](https://github.com/vostride/agent-qa)**: Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 - **[BugBug](https://bugbug.io)**: Codeless test automation tool designed to automate E2E testing of web apps and websites.  
 - **[Selenium](https://www.selenium.dev)**: Open-source browser automation framework.  
 - **[Cypress](https://www.cypress.io)**: Free for local testing workflows.  
