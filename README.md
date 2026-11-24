@@ -28,6 +28,7 @@ Feel free to make Pull Requests to add additional tools that you feel may help t
 ---
 
 ## API Testing Tools  
+- **[BestJSON](https://bestjson.com/)**: Validate and structurally compare saved JSON response samples locally in the browser; not an HTTP client.
 - **[Postman](https://www.postman.com)**: Offers a free plan for API testing.  
 - **[Insomnia](https://insomnia.rest)**: Free API client for REST and GraphQL APIs.  
 - **[Hoppscotch](https://hoppscotch.io)**: Lightweight API testing tool.  
